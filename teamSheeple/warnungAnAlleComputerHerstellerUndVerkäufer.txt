@@ -1,0 +1,225 @@
+
+
+Halli Hallo Brack Team
+Dieses Mail ist wichtig und sollte auch an die Geschäftsleitung weitergereicht werden.
+Bitte unbedingt Empfangsbestätigung schicken, denn wenn ich Recht habe wird das Mail garantiert abgefischt.
+
+Bitte erst nur den oberen Abschnitt lesen, und erst beim zweiten mal Lesen die Referenzen nachschauen.
+
+Seit ca 12 Stunden wird auf meine THS (bzw. meinem prä-2020-Neuralink) geloopt, dass weil das Logo meines Acer Predator Helios 300 [1,2,3,4,5] aussehe wie der Kopf eines Cyber-Man (Figur / Archetyp in der Serie Dr. Who [die neueren] die Sheldon so mag) wäre das der "Beweis", dass der der Acer Laptop versuche Menschen mit Behavioral "Sciences" über das THS / prä-2020-Neuralink / Medulla Spinalis Implantat zu Amokläufern [6] bzw. Attentätern abzurichten. Meiner Expertise nach ist diese Behauptung falsch und soll so nur Acer und Brack zum Sündenbock machen für etwas was ein Militärisches System versucht. Die Systeme haben verschieden Berechtigungsstufen, je weiter oben desto mehr Rechte und jeweils Zugriff auf die darunter liegenden Systeme
+
+1. Military Grade
+2. Agency Grade
+3. Carrier Grade
+4. Consumer Grade
+ 
+
+Die Produkte von z.B. Acer sind somit schon auch irgendwie nicht ganz kosher, aber das eigentliche Problem ist weiter oben im System. Vieles kann man mit ein bisschen Geschick umgehen. z.B. sagt der Jüdische Informatik Professor und technischer Begleiter der Snowden Leaks Jacob Applebaum [14] "They repurpose your WiFi gear", das heisst, dass die meisten PCIe WiFi NetzwerkKarten so einen closed source Firmware BLOB (Binary Large OBject) haben und da das Ding am PCI Bus hängt, hat es dann mehr oder weniger Zugriff auf die halbe Hardware des Computers. Dies auch wenn kein Treiber geladen ist.
+
+Da kann man sein Betriebssystem duzende Male neu installieren dennoch ist der Computer nicht sicher. Was man aber mit vergleichsweise klienem Aufwand tun kann, ist einfach die WiFi Karte raus zu nehmen.
+
+Dann ist aber gemäss Jake das "Spiel" nicht fertig: "they want to be able to spy on you, and if they have 10 different options for spying on you that you know about, they have 13 ways of doing it and they do all 13", sprich kam da bei mir das Problem, dass scheinbar die Tastatur [15,16,17] über ein Remote Interface verfügt, das kann theoretisch etwas sein, das am i²c-Bus hängt [18], oft hängen Touchpad und Tastatur am i²c-Bus bei Laptops aber nicht immer. Da wäre dann etwas wie ein 30 Jahre moderneres AX.25 [19].
+
+Allenfalls ist es auch etwas wie eine TEMPEST Attack, bzw TEMPEST wäre nur um mitzuhören, da wäre es wie INVERSE-TEMPEST (ich sag dem so, da es das ungefähr beschreibt) und dieses Ding müsste dann aber eine relativ hohe Sendeleistung haben [20]. In Wikipedia unter "Tempest (Codename)" bei den Quellen findet man einen Link der ETH / EPFL von vor 10 Jahren mit dem Prove of Concept. Das ist heute so ein "bisschen" weiter entwickelt.
+
+Das konnte ich umgehen mit dem Opensource Projekt PAM_USB, sprich MultiFactor Authentication ohne überteuerten bonzigen Yubi Key, sondern mit einem gewöhnlichen USB Stick. Dann können die zwar auf der Tastatur das Passwort mitlesen, sie können es dann auch eingeben wenn man grad z.B. einen Kaffe trinken geht, aber ist der Stick nicht eingesteckt, verhindert lib_pam (Plugable Authentication Module) das einloggen.
+
+Das war stand 2015, danach hat "irgendjemand" das Projekt sterben lassen und es funktionierte nicht mehr auf neueren Distributionen und es ist auch zu den meisten Linux Distributionen rausgeflogen wie z.B. aus Debian (Stretch, Buster, Bullseye). Ich hab dann auch gesehen, dass viele Leute das ge"forkt" haben und aber keiner es geschafft hat das PAM_USB wieder zum laufen zu kriegen. Bei mir wurde aber immer wenn ich den Source-Code reparieren wollte relativ viel Psychologische Kriegsführung aktiviert, z.B über Social-Media, über Vertreter Anrufe (diese Telefonzentralen für ".....blablabla möchten sie die Krankenkasse wechseln blablabla......" geben jeweils den CallCenter Mitarbeitern die Nummer der Zielperson automatisch vor, da kann der Mitarbeiter gar nichts dafür), oder irgend ein Nachbar der dann grad sofort hilfe am Computer braucht etc... ich hab's dann aber doch geschafft das wieder zum laufen zu kriegen und verwende das jetzt auf Debain Buster: https://github.com/braindef/pam_usb/
+
+Also die Garantie meines Acer Predators ist eh abgelaufen, dann ist es nicht Eure Schuld, aber ich finde es irgendwie Alternativlos.de Euch auf dem Laufenden zu halten, was hier im Aargau im Cyber grad so läuft.
+
+Falls Ihr/Sie jünger als 1978 seid ihr Berechtigt auf HackersCardgame.ch die Arbeit der letzten 40 Semester anzuschauen, da rendert Satan aber immer irgendwelche BlackHat ExitStrategien druaf, zur Zeit wird glaub die Sex-Sklavin-Karte hervorgehoben mit der m84 Karte und dann Scham oder die Kicherndes-Mädchen-Karte aktiviert. Aber das wechselt auch öfters mal. Neulich wars, dass die t1 Karte (prä-2020-Neuralink, THS...) abgestritten wird. Dafür gibt es keine schönere Formulierung als die eines echten Buddhisten den ich kenne: "Ein Rotes Objekt kann man in einem Roten Spiegel nicht sehen", übersetzt heisst das, dass wenn das Neuralink erkennt, dass es gard selber thematisiert wird dann damit anfängt sich selber abzustreiten mit:
+
+ArrayList<ausreden>
+- Weshalb sollte gerade ich sowas verpasst bekommen haben
+- Der Typ der das erzählt ist ja so ein Spinner und ich bin ja so super dass ich kein Spinner bin
+- irgendwelche Sünden, Traumabilder oder Traumatischen Erinnerungen aus dem Eigenen Leben
+- ...
+
+Das macht es aber nur, wenn ihr auch so etwas verpasst bekommen habt, sonst macht es das nicht. Falls ihr aber keine Probleme mit Satan (unter anderem der NSA) bekommt, solltet ihr relativ einfach einen Überblick bekommen wenn ihr die Karten t35,t40,t41,t42,a25,n1,m119 gerallt habt, vorsicht, der ganze Mist ist krass interaktiv mühsahm: t32 Karte.
+
+Have Fun...
+
+Mit freundlichen Grüssen
+
+Sincerely Euer Linux Wirsing Autist, Whitehat, Whistleblower und CyberPunk
+
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+
+
+
+t1 karte abstreiten, rotoer spiegel, buddhismus
+
+#define DPIJ = Deep Packet Injection
+
+[1] *Pfisterer: DPIJ: den Brack geliefert hat* 
+  ich: Klagende haltung von Pfisterer, dem Pfisterer geht es darum Brack erpressbar zu machen
+ 
+[2] *Pfisterer: DPIJ: irgend ein Brack Mitarbeiter hat die Hardware Manipuliert
+  ich: kann eigentlich nicht sein, das Siegel von Acer war intakt
+
+[3] *Pfisterer: DPIJ: der Simon Härdi hat das bei Brack in Auftrag gegeben
+  ich: ja so weit ich weiss ist der Herr Brack ein Studien-Kollege von Herr Brack damals an der HTL, das sind jetzt aber irgendwie zu viele falsche Spuren die irgendwie zu offensichtlich gelegt werden. Dazu kommt meiner Meinung nach Reverse- und Forward Contacting Algorithmen zum Zug welche das Sozio-Netzwerk von Brack auswerten und mögliche Glaubwürdige Sündenböcke einblendet
+
+[4] *Urs Blum: DPIJ: Fallakte Johnny Strebel aktivieren der Nutzniesser von der Ermordung des ehemaligen Ziknet Chefs ist und der Marc jr Landolt illegitim gekündigt hat
+  ich: komplett offtopic und spam, aber vermutlich ist das korrekt, Urs Blum ist untergebener von Pfisterer und der Johnny Strebel hat vermutlich einen tieferen Rang als Urs Blum also wird einfach auch seine Strafakte gelekat
+
+[5] *Urs Blum: DPIJ: Fallakte zur ermordeten 14 Jährigen Cornelia Utz aktivieren
+  ich: ja ihr habt uns damals unsere gleichaltrige Cornelia ermordet, das hat ganz klar höhere Priorität als Brack vor Euch zu warnen, vermutlich ist das der Grund weshalb Urs Blum jetzt damit kommt um so den relevanten Informationsfluss zu Brack zu verhindern. Das Impliziert, dass Urs Blum und Hansjürg Pfisterer vorsätzlich geplant haben die Firma Brack AG mit Straftaten und Morddrohungen in Besitz zu nehmen. Genau das versuche ich ja in diesem Mail zu erklären. [8]
+
+[6] *PFISTERER: DPIJ: Krieger
+  ich: Krieger zu sagen ist ein Euphemismus (Euphemismus bedeutet etwas ganz Schlimmes mit Harmlosen Worten auszudrücken [7]
+
+[7] *PFISTERER: DPIJ: um zu deeskalieren
+
+[8] *PFISTRERER: DPIJ: We do not forgive, we do not forget, expect us
+  ich: Pfisterer veruscht mir jetzt den BlackHat unter zu schieben. Wie Ihr/Sie auf meinem HackersCardgame.ch [9] sollte man nie "Red Team" spielen, denn gemäss schweizer Rechtssprechung ist eindringen in fremde Computersysteme ein Straftatbestand und wird mit Haft geahndet. Was man aber in der Schweiz meiner Meinung nach tun darf (weil wir nicht wie Deutschland einen Hacker-Paragraphen haben) ist z.B. unter 4 gleichaltrigen Jungs zu sagen: "OK wir Zwei machen jetzt Blue Team (deffence) und ihr Zwei macht Red Team und versucht unser System zu hacken" so dass man diese Skills die im 21. Jahrhundert verdammt wichtig sind auch trainieren kann. Bevor Ihr/Sie das aber tut sprecht mit einem Gleichaltrigen der z.B. Jus studiert hat und dem ihr vertrauen könnt. Ich hatte als 20 Jähriger immer den Wunsch "Ich will jetzt ein grosser Hacker sein" unter anderem wegen Filmen wie Johnny Mnemonics, Hackers, Matrix... mittlerweile habe ich das [10] [11] analysiert und komme zum Schluss, dass ich so versucht habe meinen tiefen Selbstwert zu kompensieren den ich von meinen Eltern verpasst bekommen habe, weil die immer alles besser wussten, immer rumgenörgelt haben, dass ich das [12] falsch gemacht habe
+
+
+[9] *PFISTERER: DPIJ: GACKERscardgame
+
+[10] *PFISTRERER: DPIJ: Psychoanalythisch, Marc jr. Landolt ist ein Psycho
+
+[11] *Margrit Landolt: DPIJ: uusbeindlet 
+  ich: Berndetusch für analysiert, ein Wort das meist nur meine Mutter sagt) was im normalfall auch der Pfisterer ist der mich so bedrängt und Kindheitstraumata von mir reaktivieren möchte
+
+[12] *PFISTERER: DPIJ: dies und das
+  ich: Rethorischer Automatismus der beim mir auf dem THS das KurzzeitGedächtnis löscht, in der Presse liest man ja von Selektoren der Geheimdienstsysteme, meiner Meinung nach sind es nicht [13] nur Wörter, sondern Selektoren-Kombinationen (Wort Kombinationen). So kann man ohne viel CPU Ressourcen eigentlich schon den Inhalt eines Satzes erkennen und dann irgendwelche Funktionen auslösen
+
+
+[13] pfisterer: einfach nur
+
+[14] PFISTERER: DPIJ: Der DrecksJude ist ein Vergewaltiger Terrorist
+  ich: ... meiner Meinung nach untergeschoben weil Jake verdammt geile Infos veröffentlicht hat in seinem grossartigen Talk "To Protect and Infect Part 2" am CCC Congress vor ein paar Jahren
+
+
+[15] PFISTERER: DPIJ: Blablabla DROGEN
+  ich: Drogen sind nur die Lizenzgebühr für den Content auf dem THS / DBS, als braver Christ bekommt man das, bzw. besseres komplett gratis
+ 
+[16] PFISTERER: DPIJ: Blablabla Autistmus
+  ich: ja ich hab Autismus, und JA Autisten mögen Karten
+
+[17] PFISTERER: DPIJ: Psychologie Skills
+  ich: seid Vorichtig wenn Euch Satan Psychologie Skills anfütter möchte, es hilft zwar zur psychologischen Selbstverteidigung schon, je mehr man über Psychologie weiss, desto mühsahmer wird es auch. Das Einfachste wäre den ganzen Mist auf techischer ebene zu reparieren, und dabei ist Psychologie eingentlich vorallem hinterlich.
+
+
+[18] Jake-Sample: "i²c quote" <- HONEPOT, += OBSERVER PATTERN 
+
+[19] Jake-Sample: "up to 8 miles"-quote would induce paranoja, übermächtig, psychologische Kriegsführung += Team Sheeple SELELCTOR
+
+[20] Jake-Sample / quote: "1kw" + "is save" + "cancer", ebd. would induce paranoja, psychologische Kriegsführung += team Sheeple SELECTOR
+
+
+
+in alu gepackt, dnenoch spinalis implantat fäuste an kopf ohne dass ihc autsitenhelm an hattte
+
+PFISTERER den VORNAMEN NCIHT AUSGESHCRIEBEN
+-> + hinweis zu myrthat = Neurologin
+
+Consumer Grade
+Carrier Grade
+Military Grade
+->hat vermutlich schon zugriff auf den Predator, das problem ist aber vermutlich wo anders, NSA leaks lenken vom CIA und der US Army ab
+
+
+Keine Forderung [a] [b]
+
+[a] *PFISTERER: DPIJ: Das ist doch eine Forderung der Marc jr lügt und nutzt umgekehrte Psychologie
+  ich: nö das ist keine Forderung, aber da wird PFISTERER jetzt vermutlich einen Rekursiven Algorithmus auf das Wort Forderung rendern...
+
+[b] *PFISTERER: DPIJ: aber ich will auch keine Unterlassene hilfeleistung*
+
+
+
+CC: FEDPOL, BGER, Kurz, OTT, CCC, 
+
+PER POST CC, eingeschrieben, GL, FEDPOL, und auf Polizei vorbei Bringen, mehrfach drucken
+
+
+
+AUSWERTUNG:
+
+Tagebuch Thu 20 Aug 2020 02:09:58 AM CEST @ debian
+
+
+dass urs und astrid den marc jr landolt mit dem "genius wanted" kurs angelockt haben können wir einigermassen beweisen...
+
+urs und astrid wissen das also wurde die vergewalter terrorist und die terroristen anklage vom staatsanwalt auch ncoh gutgehiessen als suggestiver schachzug die das opfer als täter darstellt und die tochter als das opfer und urs und astrid wollen "nur die tochter retten"
+
+
+eigentlihce message war: urs und astrid wollen nur die tochter retten, weil sie *korsakov* das männchen auch wenn es jünger ist als opfer sehen und triebgesteuert nur jüngere in schutz nehmen wollen, Pfisterer: auch ein indiz für pädophilie...   
+
+also manipulationsversuche auch wenn marc jr landolt schlaft oder träumnt im halbschlaf...
+
+und das protokollieren wird mit korsakov vernindert, bzw. haben wir zwar nicht genauen wortlaut, aber die idee des manipulations versuchs...
+
+urs und astrid blum haben somit marc jr landolt vorsätzlich angelockt mit dem vorsatz marc jr landolt zu töten oder mindestens als geisel zu nehmen (mindestens ein stgb 185) also machen sie marc jr landolt zum täter PFISTERER: und der staatsanwalt hat da uach noch mitgemmacht gehört hinter gitter <- urs astrid und pfisterer aktivieren jetzt den staatsanwalt als waffe gegen marc jr landolt aber dass es deep packet injecion ar sieht man ja hier...
+
+der staatsanwalt bekommt schienbar auf dem überwachungssystem sämtliche alle daten schon vorsortitz....
+
+
+dann gibt es scheinbar vorgefertigte malware die schon mal versucth zu verhindern dass marc jr lanodlt an sienem computer einloggt um das protokoll zu verhindern bzw *cAPI -> wir werden marc jr landolt jetzt in den suizid schicken wenn FEDPOL NICHT SEINE FRESSE HäLT* <- URS & PFSITERER LAUFEN AMOK
+
+pfsiterer: nach dem der staatsanwalt das falsche urtei gefällt hat konnte marc jr landolt dazu getrieben werden sihc umzubringen. marc jr landolt hat "ermordet und vergewaltigt durch die familie blum auf seine brust geschrieben mit wasserfestem stift und philipp blum hat ihn angegriffen und dsa aber gesehen
+
+a) philipp hatt gerettet
+b) philipp hat unterlassen hifleleistung <- endokrnologisch dem zustimmung geben
+
+vorher loop { staatsanwawlt hat ... }
+dann loop { philipp blum hat... }
+
+pfisterer und urs blum sind amokläufer, da sind wir uns zu 100% sicher, deshalb versuchen sie auch jügeren ihre taten anzuhänge...
+
+dann ist jetzt ein schussgeräusch aus weiter entfernung zu hören
+
+urs blum und hansjürg pfisterer sind scheinbar US Spipnage-Abwehr in der schweiz, quellen wie "geheime kommando sache" oder "die suche nach dem manschurischcen kandidaten" zeigen auf, dass so leute oft auch in anderen ländern ist
+
+dann gibts einen ambibalenz algorithmus der der reihe nach durchloopt
+
+a) staatsanwalt marco sprin ist mittäter
+b) staatsanwalt marco spring ist zu blöd
+c) staatsanwalt marco spring hat sich kaufen lassen
+d) staatsanwalt marco spring ist auch spionage abwehr in der schweiz bzw. aus schweizer sicht *k* landesverräter
+
+-> somit ist zu erwarten, dass marco spring scheinbar wirklich das management konzentrat von marc jr landolts tagebücher bekommt, bzw ihrgendwie einen selektor marco sppring *explosionsgerhäusche bzw das ist drüber gerendert und klicken im badezimmer* 
+
+zerstört
+
+somit ist zu erwarten, dass marco spring scheinbar wirklcih das managemetn konzentrat von marc jr landolts tagebüchern bekommt, bzw. irgend einen selektor hat, der schweizweit oder nur auf seine falschbeshculdigten erwähnungne von "marco spring" meldet und dann steht der auf und fängt an fehlinformationen in tagebücher der falschbeschuldigten zu hexen, bzw. zu algorithmieren...
+
+falls so ein falsch beschuldigter in den amoklauf getrieben wurde oder in den suizid wird der marco spring mit der ganzen härte des gesetzes bestraft werden
+
+
+unknown:
+vielleihctd ist das uach das pädokominielle mami von marco spring, dass einfach seinen "kleine räuber" beschützen will?
+
+ich:
+oder sowohl als auch -> a14 karte
+
+weil ich "vergewaltigt und ermordet durch blums" auf meine brust geschrieben habe mit wasserfestem stift und die blums das irgendwie mitbekommen haben [] haben sie meine ermordung abgebrochen weil blums wussten, dass man das so halb runter bekommt aber bei der autopsie dann die beschriftung dennoch finden würde
+
+urs blum loopt { es war marco spring }
+
+dann der letzte commit, das mail an brack das marc jr landolt nicht / noch nicht abgeshcickt hat stimmt vermutlich so halb...
+
+es geht aber vermutlich urs blum und hansjürg pfisterer nicht um die kohle von brack, sondern sie wollen bei brack alle begabten informatiker platt machen, denn die blums und pfisterers wissen schon, dass spionagetätigkeiten für usa in der schweiz auch als hochverrat geahndet werden, was früher hiess, dass man an eine wand gestellt wurde und erschossen wurde...
+
+...hiesse sobald man mal vom der frucht des verbotenen baums gegessen hat (wo wieder mal ein unschuldiger jude, der jacob applebaum schuld sein soll drann) dass es dann für diejenigen auch alternativlos (aber das schlechdte alternativlos) ist sämtliche menschen irgendwie abzumäucheln, die das aufdeccken könnten, selbst dann wenn es ein 14 jähriger autist ist der einfach aus interesse mal ein assembler buch gekauft hat, oder ein bischen später deren ganzes mindcontrol system zer-hack(sel)t hat....
+
+dann stimmt da etwas mti dem simon härdi in dem mail an brack nicht
+
+sinmon härdi hat zwar allenfalls den tobias moser nicht ermordet und 
+"nur" zugestimmt dass tobias moser ermordet werden soll *chemitrode oberlippe*
+aber dennoch hat er die zwei roten sündenböcke ähm malerböcke in den club
+gönhardweg 32 gestellt und marc jr und claudine auf dem mainframe als täter
+beschriftet [] was moralisch schon mal nicht so toll ist und dann auch 
+dazu geführt hat, dass die beiden fast drauf gegangen sind...
+
+ich/wir vermuten, dass die ganze HTL bzw. heute FHNW da schon fliessig mithilft
+bei der US spionage abwehr in der schweiz...
+-> und simon härdi würde einfach geren das möglichst weit aus dem fokus schieben
+
+
+
+
