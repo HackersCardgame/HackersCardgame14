@@ -25,6 +25,8 @@ ich hätte gesagt, dass die Schlüsselwörter Eskalationsstufen sind
 1. NSFW
 2. BONDAGE
 3. BDSM
+4. ABDL
+(bei 4. war ich sogar der Depp der es angefüttert hat und der erste eintrag in der Diaspora federation. Es ist vermutlich für einen ungebildeten richter sehr einfach den link von ABDL zu Pädophilie zu machen, aber erstens habe ich nur mich selber ge-bitcht, zweitens gabe es da vorfälle in meiner Kindheit die ich so verarbeiten konnte)
 
 in allen hashtags / bzw generell in allen sammlungen auch z.B. youtube hätte es non consensual content, also nach schweizer rechtssprechung kriminelles material, das wenn man es sichtet das schon als solches erkennen würde und das schnell wegklickt weil man ja nicht nach solchem sucht
 
