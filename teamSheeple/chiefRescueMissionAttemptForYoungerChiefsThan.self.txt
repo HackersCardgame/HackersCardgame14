@@ -6,6 +6,9 @@ t40-t45 Karten als attachement und die 3 Katzen hinterm sofa
 
 Mail Text:
 TO: @ziknet/suhr
+CC: sabrina
+CC: stösse
+CC: prozillo gianfranco, afaik irgendwo bund
 CC: FEDPOL
 CC: BGER
 -> jeweils =+ xenia
@@ -80,6 +83,12 @@ Grundsätzlich würde das aber nicht so eine grosse Rolle spielen, da gemäss me
 Technisch gesprochen, wäre das allenfalls nicht mal das ProvisionierungsSystem, sondern direkt auf der UBR/CMTS, von Cisco iOS Backdoors liest man ja immer wieder. Ich hätte auch spekuliert darauf, dass Docsis Endgeräte (egal ob Arris, Cisco...) auch z.B. noch einen SDR im Chip verbaut hätten (mit dem man dann auf Bluetooth, WLAN, THS, Toaster... zugreiffen könnte), dass diese Kommunikation gar nicht im offiziellen Transportstream ist (strtc2). Das zu überprüfen würde aber ein Elektronenmikroskop für's reverse engineeren der Chips, viel kohle und ein grösseres Team benötigen, und ich als irgendwas zwischen sozialhilfe empfänger und iv empfänger kann das logischerweise nicht tun. Ich hab auch bei der FHNW angefragt, ob ich deren Elektronenmikroskop verwenden dürfe unter aufsicht, da wurde ich dann beim ersten mail "ausnahmsweise" wieder in die Psychiatrie verfrachtet (diese wo der Pfisterer seit 50 Jahren tätig ist) und bei zweiten mail kam dann ein relativ schroffes, nö verpiss dich marc jr, ...
 
 Wir (und als diagnostizierter Schizo darf ich logischerweise auch wir sagen) betreiben so eine Art "Unsichtbare Universität" (siehe Terry Pratchet Romane, bzw. gibt auch von einem Buch einen Film), es würde uns Freuen, wenn Du unserer Studiengruppe beitreten würdest. WhiteHat Hacker wird man aber nur, wenn man zuerst alles gebeichtet und gesüht hat (m131 Karte, jetzt gar nicht so im Religiösen sinne, sondern eher in Wissenschaftlichen sinn, siehe Studie/youtube: the truth about dishonesty). <a href="Menschenquellen">Falls JA</a> besser erst alle Waffen einschliessen *korsakov* und zwar so dass Du keinen Zugang hast, sprich den Schlüssel Deiner Partnerin oder Schwester etc. geben. Bei mir sind sogar die Küchenmesser etc. weggeschlossen und ich hab jetzt Plastik messer, das ist z.B. für's Kartoffeln schneiden so ein bisschen mühsahm, aber es geht. Ausserdem hab ich mir einen Autisten Helm gekauft, typischerweise schlagen sich ja autisten "selber" an den Kopf, bzw. hätte ich eben gesagt, dass ist ein THS mit Leitung in die Medulla Spinalis (um eine Filmquelle zu zitieren: "Den Avatar übernehmen" Film Avatar (3D). Und ja klar sind Filmquellen keine richtige Quellen, dennoch werden über Filme "Mikropunkte" (wiki) bzw. als 5Sek Szene eine neuere Variante von Mikropunkten verteilt für die "Eingeweihten"
+
+
+MEINUNG:
+alle wir 1978er und jüngeren von Ziknet, inklusive Sabrina Zehnder, Andreas Stössel, Prozillo, Nico, sollten uns mal zu einem Runden Tisch verabreden, denn gemäss meinen Studien hat das Sysytem bei Ziknet allen jüngeren Leichen in den Keller gestellt, dann alle getrennt um diese Leichen oder "Leichen" oder untergeschobene Leichen "notfalls" später als "Psychologischen Schlüssel, psycholgischen Anker" verwenden zu können
+
+stössel
 
 
 [1] DPIJ: Endpoint Marc jr Landolts Laptop, Netzwerkkarte ist ausgezogen, WiFi Karte
