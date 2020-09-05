@@ -53,9 +53,12 @@ $Shrink = Pfisterer
 
 Legende
 
-Es war mal ein $ich *DPIJ: SIECH*, der einen tollen Job bei der Firma $Firma hatte. Ich hab mich richtig fest angestrengt und versucht alles richtig zu machen. Ich würde im Jahr $ErstDiagnose zum Schizophrenen deklariert von ${Shrink} 
+Es war mal ein $ich *DPIJ: SIECH*, der einen tollen Job bei der Firma ${Firma2} hatte. Ich hab mich richtig fest angestrengt und versucht alles richtig zu machen.
 
 
+<font color=red>Ich wurde im Jahr ${ErstDiagnoseJahr} zum Schizophrenen deklariert von ${Shrink} und mir wurde gesagt, dass die Stimmen die ich höre Spinnerei seien, dass das typisch sei bei Schizophrenie Patienten. Ich wurde mit massiv vielen intelligenzmindernden und sonst schädlicher Psychopharamaka zwangsmediziert, bis ich geglaubt habe, dass diese Stimmen Spinnerei sei. *loop {induktive logik}* *grammatik / satz randomizer* Die Diagnose ${ErstDiagnoseJahr} korreliert etwa mit dem Zeitpunkt als ich ca. 13 Jahre vor Snowden gesagt habe, dass das Firmennetzwerk der ${Firma1} überwacht und manipuliert werde. Als Autist mit Inselbegabung auf Informatik war ich mir zwar sicher, dass überwacht wurde, ich konnte das aber noch nicht herleten und beweisen, aber als 20 Jähriger erzählt man das halt überall herum. 
 
+
+Ich hab auch 8h pro Tag gearbeitet und dafür ca 5000.-- bekommen, aber dann Abends und am Wochenende nochmals jeden Tag 8h, um die Dinge und Hilfeschreie die meine "Spinner Stimmen" mir gesagt haben zu bearbeiten und zu lösen, da diese Dinge die über diesen nicht so ganz durchsichtigen KommunikationsKanal rein kamen und meiner Meinung nach meist höhere Priorität hatte *johnny strebel: selberschuld* 
 
 
