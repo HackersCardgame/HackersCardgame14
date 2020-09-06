@@ -74,6 +74,11 @@ $ältererChef = Johnny Strebel
 $GemeindeAmman = FILTERD -> lookup: Rüetschi
 $jungerArbeitsKollege = Andreas Stössel
 äjüngereArbeitsKollegin = Sabrina Zehnder
+$Offizier1960 = Urs Blum
+$schwarzeHexe2 = Astrid Blum
+$schwarzeHexe1 = Margrit Landolt
+$Hilfsdienst = Marc Georg Landolt (1950)
+
 
 $ich = Marc jr. Landolt
 
@@ -285,7 +290,7 @@ oft verwendete Hashtags: #OSINT #CCC #CYBER #CRYPTO #CHAOS #...
 [1] DPIJ: Endpoint Marc jr Landolts Laptop, Netzwerkkarte ist ausgezogen, WiFi Karte
 *$ältererChef: marc jr *selberschuld* hat arbeiten gemacht während der Arbeitszeit0 *du verdammte hueresohn* die wir bezahlen mussten die gar nichts mit dem job zu tun hatten* <- nö, eben das habe ich dann zuhause noch gemacht... ich habs jeweils nur rasch notiert und zuhause erledigt... <- klagende haltung <- $ältererChef klagt weil er der ermordung von wischniefski zugestimmt hat um den job zu bekommen? *unknown: sprengfallen gegen marc jr landolt aktivieren* *du verdammte hueresohn* <- die studentenverbindung von $ältererChef und $Shrink haben allenfalls sprengfallen? 
 
-[2] *wegen meines tiefen selbstwerts der durch narzisstsichen Machtmissbrauch der  eltern entstanden ist* <- Margrit Landolt und Georg Landolt werden so als Waffe gegen Marc jr Landolt aktiviert mutmasslich von $ältererChef und $Shrink 
+[2] *wegen meines tiefen selbstwerts der durch narzisstsichen Machtmissbrauch der  eltern entstanden ist* <- $schwarzeHexe1 und $Hilfsdienst werden so als Waffe gegen Marc jr Landolt aktiviert mutmasslich von $ältererChef und $Shrink 
 
 [3] *marc jr landolt eine bleivergiftung verpassen*
 
